@@ -4,7 +4,7 @@
 import pytube
 
 # Store the youtube link in a variable
-lnk = "https://www.youtube.com/watch?v=YuSBnAK7v1M"
+lnk = "video link"
 
 # Attach the link with pytube and store in a variable
 yt = pytube.YouTube(lnk)
